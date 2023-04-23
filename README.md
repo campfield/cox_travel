@@ -6,36 +6,66 @@ This document is a guide to the [City of Heroes / Villains](https://hcwiki.cityo
   * [Long Range Teleporter](#long-range-teleporter)
     + [Obtaining the Power](#obtaining-the-power)
   * [In-Zone "Physical" Connections](#zone-connections-in-located-in-each-zone)
-  * [Looking for Group (LFG)](#looking-for-group--lfg--task---strike-force-transport)
+  * [Looking for Group (LFG)](#looking-for-group (LFG))
+  * [Tunnel System](#tunnel-system)
 
-Notes:
-  * Characters with Vigilante or Rogue alignments permits simultaneous access to both Paragon City (Hero/Blue) and Rogue Isles (Villain/Red) Zones.  Alignment changes are available via the [Null the Gull](https://hcwiki.cityofheroes.dev/wiki/Null_the_Gull) NPC located in [Pocket D](https://hcwiki.cityofheroes.dev/wiki/Pocket_D).
-  * Access to the Midnighter's Club (and thus Cimerora along with additional Zones detailed below) is available via two methods.  The first, long route, is completing the [Montague Castanella story arc](https://hcwiki.cityofheroes.dev/wiki/Montague_Castanella#Story_Arc) which is available after level 10.  The alternate method is travel to [Night Ward](https://hcwiki.cityofheroes.dev/wiki/Night_Ward) and enter the manion at map location [1800, 110, -2420] which grants the required badge.
-  * Routes on the [TUNNEL System](https://hcwiki.cityofheroes.dev/wiki/TUNNEL_System) are not detailed.
+### Notes:
+  * Characters with Vigilante or Rogue alignments have access to both Paragon City (Hero/Blue) and Rogue Isles (Villain/Red) Zones.  Non-storyline changes to alignments are available via the [Null the Gull](https://hcwiki.cityofheroes.dev/wiki/Null_the_Gull) NPC located in [Pocket D](https://hcwiki.cityofheroes.dev/wiki/Pocket_D).  Characters with Hero or Villian alignments will be restricted to their specific zones, co-op, and PvP zones (listed later).
+  * Access to the Midnighter's Club (and thus Cimerora along with additional Zones detailed below) is available via two methods.  The first is a storyline-based and is completed through the [Montague Castanella story arc](https://hcwiki.cityofheroes.dev/wiki/Montague_Castanella#Story_Arc) which is available to characters after level 10.  The alternate method is to travel to the [Night Ward](https://hcwiki.cityofheroes.dev/wiki/Night_Ward) Zone and enter the mansion at map location [1800, 110, -2420], no other actions required.
+  * Permanent access to the [Ouroboros](https://hcwiki.cityofheroes.dev/wiki/Ouroboros) Zone is granted the first time a character enters the Ouroborous Zone.  Frequently this initial entrance is made by clicking on a portal created by another character.  Player-initated portals are semi-frequent in Atlas Park near the Ms. Liberty NPC.  Helpful players will often respond to Ouroborous portal requests when they are made in the Broadcast channel.
+  * Studio 55 is a lesser known Praetoria equivalent to Pocket D and the two share a direct link.  The Pocket D to Studio 55 portal is located behind large ramp leading to the "stargate" on the blue side of Pocket D.  Outside of the TUNNEL system this can be the easiest way to travel to Praetoria.
+
+
 
 ## Long Range Teleporter
-The [Long Range Teleporter](https://hcwiki.cityofheroes.dev/wiki/Hero_Accolade_Powers#Long_Range_Teleporter) (LRT) is a standard travel feature of the City of Heroes environment with a large range of instant travel to Zones with a <em>10 minute cooltown</em> (time until available after use). The power allows access to the default areas of Echo Plaza, the Character's Supergroup Base, and any Supergroup Base using a known Passcode.  Once obtained new Zones can be added to the available destination list by collecting one Exploration Badge in the desired Zone.
+The [Long Range Teleporter](https://hcwiki.cityofheroes.dev/wiki/Hero_Accolade_Powers#Long_Range_Teleporter) (LRT) is a standard travel feature of the City of Heroes environment with a large range of instant travel to Zones with a <em>10 minute cooltown</em> (time until available after use). The power allows access to the default areas of Echo Plaza, the Character's Supergroup Base, and any Supergroup Base using a known Passcode.  Once this power is obtained new Zones can be added to the available destination list by collecting at least one Exploration Badge in the desired Zone.
+
+Any of the following methods will award the LRT power:
 
 ### Obtaining the Power
-Either of these methods will award the LRT power.
-  * Collect 8 exploration badges in a single Zone.
-    * Installing the [Vidiotmaps](https://forums.homecomingservers.com/topic/3523-vidiotmaps-for-issue-24-and-beyond/) add-on will overlay the exploration badge locations in the character's Map (the add-on will also add over information to Maps).
+
+  * Collect 8 exploration badges in a single Zone.  King's Row is prefered by the author but a jetpack or flight power is stronly suggested to deal with multiple badges being in elevated locations.
+    * Installing the [Vidiotmaps](https://forums.homecomingservers.com/topic/3523-vidiotmaps-for-issue-24-and-beyond/) add-on will overlay exploration badge locations in the character's Map (the add-on will also add other information to Maps such as level ranges within Zones and MOB type locations).
     * The [Reveal](https://hcwiki.cityofheroes.dev/wiki/Veteran_Reward_Powers#Reveal) power available from a [P2W Vendor](https://hcwiki.cityofheroes.dev/wiki/P2W_Vendor) improves the Vidiotmaps add-on readability by removing the "Fog of War."
-  * By Spending 1 hour in Pocket D obtaining the [Pocket D VIP Gold Club Member](https://hcwiki.cityofheroes.dev/wiki/Pocket_D_VIP_Gold_Club_Member_Badge) badge.
+  * Spending 1 hour in Pocket D obtaining the [Pocket D VIP Gold Club Member](https://hcwiki.cityofheroes.dev/wiki/Pocket_D_VIP_Gold_Club_Member_Badge) badge.
+  * The base LRT power can be directly purchased a P2W Vendor.  However, using this method still requires gaining exploration badges in each Zone to add those destinations to the power.
+<br />
+<br />
 <br />
 <br />
 <br />
 
-<br />
-<br />
-<br />
-<br />
-<br />
+## TUNNEL Connections
+The [TUNNEL System](https://hcwiki.cityofheroes.dev/wiki/TUNNEL_System) provides portal-based transport between Zones including 'less common' destinations.  Visually, the entrance portals appear as vertically aligned Supergroup portals with alternate color schemes and effects.  Available destinations depend on the character's current Zone.
+
+| Zone | Paragon Zones | Rogue Zones |
+| ----- |:-----:|:-----:|
+| Atlas Park |  X  | |
+| Cap Au Diable |  |  X  |
+| Dark Astoria |  X  |  X  |
+| Echo Plaza |  X  |  X  |
+| Firebase Zulu |  X  | |
+| First Ward |  X  |  X  |
+| Founders' Falls |  X  | |
+| Grandville | |  X  |
+| Imperial City |  X  |  X  |
+| Mercy Island | |  X  |
+| Night Ward |  X  |  X  |
+| Nerva Archipelago | |  X  |
+| Peregrine Island |  X  | |
+| Talos Island |  X  | |
+| Underground Imperial |  X  |  X  |
+
 
 ## In-Zone "Physical" Connections
 These are the standard connections between Zones where a character clicks a doorway, passes through a security gate, enters a boat or submarine, etc.
 
-Key:
+### Notes:
+  * Two entries, (The) Crucible and Ft. Trident, have two entry points (LRT and a Zone) but multiple exit points to Task / Strike Force NPC.  This is the same effect as using the LFG system detailed below.
+    * The Cruicble exits to Cap Au Diable, Grandville, Sharkhead Isle, and St. Martial.
+    * Ft. Trident exits to  Brickstown, Founders Falls, Independence Port, Skyway City, Steel Canyon, and Talos Island.
+
+### Key:
   * Items without **Red** or **H/V** default to Paragon City (Hero/Blue).
   * Items labeled **Red** are Zones specific to Rogue Isles (Villain/Red).
   * Items labeled **H/V** are Zones accessible by characters of any alignment.
@@ -43,21 +73,23 @@ Key:
   * Items labeled with **PvP** are Player vs. Player Zones accessible by characters of any alignment.
   * Items labeled with **SE** are seasonal event Zones and are available on limited basis.
   * Items labeled **TO** are themed overlays of existing Zones with no regular features (e.g., trainers, missions, and tranit lines).
+  * Non-PvP Rogue Isles Zones have direct interconnects to all other Rogue Isles destinations and are labeled as **RIZ**.
 
 | Zone | Connecting Zones | Level Range<br> [H/V, PvP, Red, SE, TO] |
 | ----- | ----- | ----- |
 | [Abandoned Sewer Network](https://hcwiki.cityofheroes.dev/wiki/Abandoned_Sewer_Network) | Sewer Network | 36 - 40 |
 | [Abyss](https://hcwiki.cityofheroes.dev/wiki/The_Abyss) | Grandville<br>Independence Port<br>Monster Island<br>Peregrine Island<br>Sharkhead Isle<br>and Kallisti Wharf | 45 - 50 [**Red**] |
 | [Atlas Park](https://hcwiki.cityofheroes.dev/wiki/Atlas_Park) | Hollows<br>Perez Park<br>Recluse's Victory<br>Rikti War Zone<br>Skyway City<br>Steel Canyon<br>| 1 - 6 |
-| [Bloody Bay](https://hcwiki.cityofheroes.dev/wiki/Bloody_Bay) | Cap Au Diable<br>Skyway City| 15 - 25 [**PvP**] |
+| [Bloody Bay](https://hcwiki.cityofheroes.dev/wiki/Bloody_Bay) | Cap Au Diable<br>Skyway City<br>(via Free Fire Zone Transports)| 15 - 25 [**PvP**] |
 | [Boomtown](https://hcwiki.cityofheroes.dev/wiki/Boomtown) | Sewer Network<br>Steel Canyon | 11 - 19 |
 | [Brickstown](https://hcwiki.cityofheroes.dev/wiki/Brickstown) | Crey's Folly<br>Independence Port | 30 - 38 |
 | [Cap Au Diable](https://hcwiki.cityofheroes.dev/wiki/Cap_au_Diable) | Bloody Bay<br>Underground Imperial| 8 - 20 [**Red**] |
 | [Cascade Archipelago](https://hcwiki.cityofheroes.dev/wiki/Cascade_Archipelago) | Chantry<br>Firebase Zulu|40 - 44 |
 | [Chantry](https://hcwiki.cityofheroes.dev/wiki/The_Chantry) | Cascade Archipelago<br>Firebase Zulu<br>Storm Palace |44 - 47|
-| [Cimerora](https://hcwiki.cityofheroes.dev/wiki/Cimerora) | Midnighter club (Zone transfer to Croatoa puts characters next to Midnighter Club) | 35 - 50 [**H/V**] |
+| [Cimerora](https://hcwiki.cityofheroes.dev/wiki/Cimerora) | Midnighter club<br>(Zone transfer to Croatoa spawns<br>characters near a Midnighter Club) | 35 - 50 [**H/V**] |
 | [Crey's Folly](https://hcwiki.cityofheroes.dev/wiki/Crey%27s_Folly) | Brickstown<br>Rikti War Zone | 31-39 |
 | [Croatoa](https://hcwiki.cityofheroes.dev/wiki/Croatoa) | Brickstown<br>Founders' Falls<br>Independence Port<br>Skyway City<br>Steel Canyon<br>Talos Island | 25 - 34 |
+| [Crucible](https://hcwiki.cityofheroes.dev/wiki/The_Crucible) | Mercy Island | NC |
 | [Dark Astoria](https://hcwiki.cityofheroes.dev/wiki/Dark_Astoria) | Talos Island | 50 - 54 |
 | [Echo Plaza](https://hcwiki.cityofheroes.dev/wiki/Echo_Plaza) | Pocket D (blue-side truck) | NC [**H/V**] |
 | [Echo: Atlas Park](https://hcwiki.cityofheroes.dev/wiki/Echo:_Atlas_Park) | Ouroboros | 1 - 6 |
@@ -69,7 +101,7 @@ Key:
 | [Faultline](https://hcwiki.cityofheroes.dev/wiki/Faultline) | Pocket D<br>Skyway City |15 - 25 |
 | [Firebase Zulu](https://hcwiki.cityofheroes.dev/wiki/Firebase_Zulu) | Cascade Archipelago<br>Chantry<br>Peregrine Island<br>Storm Palace | 40 - 44 |
 | [First Ward](https://hcwiki.cityofheroes.dev/wiki/First_Ward) | Night Ward<br>Underground Imperial | 20 - 30 |
-| [Fort Trident](https://hcwiki.cityofheroes.dev/wiki/Fort_Trident) | Atlas Park<br>Task Forces | NC |
+| [Fort Trident](https://hcwiki.cityofheroes.dev/wiki/Fort_Trident) | Atlas Park | NC |
 | [Founders' Falls](https://hcwiki.cityofheroes.dev/wiki/Founders%27_Falls) | Eden<br>Midnighter Club<br>Pocket D<br>Rikti War Zone<br>Talos Island | 31 - 40 |
 | [Grandville](https://hcwiki.cityofheroes.dev/wiki/Grandville) | Abyss<br>Independence Port<br>Kallisti Wharf<br>Monster Island<br>Peregrine Island<br>Recluse's Victory<br>Rikti War Zone | 40 - 50 [**Red**] |
 | [Harvest Festival (Themed Atlas Park)](https://hcwiki.cityofheroes.dev/wiki/Atlas_Park) | Pocket D (via Null the Gull) | NC [**TO**] |
@@ -113,7 +145,7 @@ Key:
 
 ## Looking for Group (LFG)
 
-LFG Transport is a <em>zero second</em> cooldown method to travel to a handfull of Zones by ~~abusing~~ employing the LFG system.  Normally, when a Task / Strike Force is joined the character's group will be transported across Zones to the Force's initial mission contact.  In this case, locking the group size with only 1 member (your character) triggers immediate transport.  Once the character is in the desired Zone no other actions are necessary.
+LFG Transport is a <em>zero second</em> cooldown method to travel to a handfull of Zones by ~~abusing~~ employing the LFG system.  Normally, when a Task / Strike Force is joined the character's group will be transported across Zones to the Force's initial mission contact.  In this case, locking the group size to only 1 member (your character) prompts the player for immediate transport.  Once the character is in the desired Zone no other actions are necessary.
 
 LFG Transport the best method to directly transport to Cimerora from any location outside of a [Midnighter Club](https://hcwiki.cityofheroes.dev/wiki/Midnighter_Club) as Cimerora is not a destination Zone available via the [Long Range Teleporter](https://hcwiki.cityofheroes.dev/wiki/Hero_Accolade_Powers#Long_Range_Teleporter) (LRT) power.
 
@@ -128,30 +160,32 @@ To utilize LFG Teleport:
 | ----- | ----- |
 | [Brickstown](https://hcwiki.cityofheroes.dev/wiki/Brickstown) | Following Countess Crey [Manticore] |
 | [Cap Au Diable](https://hcwiki.cityofheroes.dev/wiki/Cap_au_Diable) | The Beast Beneath the Mountain [Virgil Tarikoss] [**Red**] |
+| [Cap Au Diable](https://hcwiki.cityofheroes.dev/wiki/Cap_au_Diable) | Chasing Fool's Gold [Dr. Aeon] |
 | [Cascade Archipelago](https://hcwiki.cityofheroes.dev/wiki/Cascade_Archipelago) | The Legend of Ruladak [Sara Moore] |
 | [Chantry](https://hcwiki.cityofheroes.dev/wiki/Chantry) | The Saga of Faathim [Justin Augustine] |
 | [Chantry](https://hcwiki.cityofheroes.dev/wiki/Chantry) | The Saga of Lanaru [Faathim the Kind] |
 | [Cimerora](https://hcwiki.cityofheroes.dev/wiki/Cimerora) | Time's Arrow [Imperious] |
 | [Croatoa](https://hcwiki.cityofheroes.dev/wiki/Croatoa) | A Tangled Plot [Katie Hannon] |
 | [Firebase Zulu](https://hcwiki.cityofheroes.dev/wiki/Firebase_Zulu) | Explorers & Exploiters [Dr. Quarterfield] |
-| [Founders' Falls](https://hcwiki.cityofheroes.dev/wiki/Founders%27_Falls) | Soul of the Woodsman [Numia] |
 | [Founders' Falls](https://hcwiki.cityofheroes.dev/wiki/Founders%27_Falls) | The Return of the Reichsman [Dr. Kahn] |
-| [Grandville](https://hcwiki.cityofheroes.dev/wiki/Grandville) | Thus Spoke the Reichsman [Barracuda] |
+| [Founders' Falls](https://hcwiki.cityofheroes.dev/wiki/Founders%27_Falls) | Soul of the Woodsman [Numia] |
 | [Grandville](https://hcwiki.cityofheroes.dev/wiki/Grandville) | Lord Recluse's Strike Force [Lord Recluse] [**Red**] |
-| [Independece Port](https://hcwiki.cityofheroes.dev/wiki/Independece_Port) | A Clamor for the People [ Penelope Yin] |
+| [Grandville](https://hcwiki.cityofheroes.dev/wiki/Grandville) | Thus Spoke the Reichsman [Barracuda] |
+| [Independece Port](https://hcwiki.cityofheroes.dev/wiki/Independece_Port) | A Clamor for the People [Penelope Yin] |
 | [Independece Port](https://hcwiki.cityofheroes.dev/wiki/Independece_Port) | Ms. Liberty Task Force |
 | [Independece Port](https://hcwiki.cityofheroes.dev/wiki/Independece_Port) | The Sky if Falling [Admiral Sutter] |
 | [Rikti War Zone](https://hcwiki.cityofheroes.dev/wiki/Rikti_War_Zone) | Alpha Strike [**H/V**] |
 | [Rikti War Zone](https://hcwiki.cityofheroes.dev/wiki/Rikti_War_Zone) | The Lady Grey Task / Strike Force [**H/V**] |
 | [Rikti War Zone](https://hcwiki.cityofheroes.dev/wiki/Rikti_War_Zone) | The Praetorian Offensive [Tin Mage Mk. II] [**H/V**] |
-| [Sharkhead Isle](https://hcwiki.cityofheroes.dev/wiki/Sharkhead_Isle) | Pirates of the Sky [Silver Mantis] [**Red**] |
 | [Sharkhead Isle](https://hcwiki.cityofheroes.dev/wiki/Sharkhead_Isle) | The Fire and the Flames [Mortimer Kal] [**Red**] |
+| [Sharkhead Isle](https://hcwiki.cityofheroes.dev/wiki/Sharkhead_Isle) | Pirates of the Sky [Silver Mantis] [**Red**] |
 | [Sharkhead Isle](https://hcwiki.cityofheroes.dev/wiki/Sharkhead_Isle) | The Temple of the Waters [SF Op. Renault] [**Red**] |
 | [Skyway City](https://hcwiki.cityofheroes.dev/wiki/Skyway_City) | The Fall of the Clockwork King [Synapse] |
-| [Steel Canyon](https://hcwiki.cityofheroes.dev/wiki/Steel_Canyon) | The Rule of Three [Positron Pt. 1] |
 | [Steel Canyon](https://hcwiki.cityofheroes.dev/wiki/Steel_Canyon) | Dam Hero [Positron Pt. 2] |
+| [Steel Canyon](https://hcwiki.cityofheroes.dev/wiki/Steel_Canyon) | The Rule of Three [Positron Pt. 1] |
 | [St. Martial](https://hcwiki.cityofheroes.dev/wiki/St._Martial) | The Crystal of Serafina [Ice Mistral] [**Red**] |
 | [Striga Isle](https://hcwiki.cityofheroes.dev/wiki/Striga_Isle) | The Kheldian War [Moonfire] **Blue** |
 | [Striga Isle](https://hcwiki.cityofheroes.dev/wiki/Striga_Isle) | The MegaMech Cometh [Ernesto Hess] |
 | [Talos Island](https://hcwiki.cityofheroes.dev/wiki/Talos_Island) | Citadel's Children [Citadel] |
+
 
